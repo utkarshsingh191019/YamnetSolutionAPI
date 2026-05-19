@@ -1,0 +1,6 @@
+@YamnetSolutionAPI_HostAddress = http://localhost:5083
+
+GET {{YamnetSolutionAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
