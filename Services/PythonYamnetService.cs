@@ -71,7 +71,7 @@ public class PythonYamnetService
         }
         catch (Exception ex)
         {
-            Console.WriteLine("Batch YamNet execution error: " + ex.Message);
+            Console.WriteLine("Batch oooooooo YamNet execution error: " + ex.Message);
         }
 
         return results;
